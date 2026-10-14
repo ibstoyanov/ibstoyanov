@@ -5,7 +5,7 @@
 - **Name:** **Ivo**  
 - **Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
 - **GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
-- **GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs-official)  
+- **GitLab:** [https://gitlab.com/ivobs-official](https://gitlab.com/ivobs12)  
 
 ## 👋 About
 
