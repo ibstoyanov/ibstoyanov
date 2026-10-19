@@ -2,10 +2,10 @@
 
 ## 🔗 Find Me Online
 
-- **Name:** **Ivo**  
-- **Email:**  [ivobs12@gmail.com](mailto:ivobs12@gmail.com)  
-- **GitHub:** [https://github.com/ivobs](https://github.com/ivobs)  
-- **GitLab:** [https://gitlab.com/ivobs12](https://gitlab.com/ivobs12)  
+- **Name:** **I. B. Stoyanov (Ivo)**  
+- **Email:**  [ivobstoyanov@gmail.com](mailto:ivobstoyanov@gmail.com)  
+- **GitHub:** [https://github.com/ibstoyanov](https://github.com/ibstoyanov)  
+- **GitLab:** [https://gitlab.com/ibstoyanov](https://gitlab.com/ibstoyanov)  
 
 ## 👋 About
 
