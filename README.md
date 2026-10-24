@@ -5,7 +5,7 @@
 - **Name:** **I. B. Stoyanov (Ivo)**  
 - **Email:**  [ivobstoyanov@gmail.com](mailto:ivobstoyanov@gmail.com)  
 - **GitHub:** [https://github.com/ibstoyanov](https://github.com/ibstoyanov)  
-- **GitLab:** [https://gitlab.com/ibstoyanov](https://gitlab.com/ibstoyanov)  
+- **GitLab:** [https://gitlab.com/ibstoyanov-org](https://gitlab.com/ibstoyanov-org)  
 
 ## 👋 About
 
