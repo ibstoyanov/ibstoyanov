@@ -2,7 +2,7 @@
 
 ## 🔗 Find Me Online
 
-- **Name:** **I. B. Stoyanov (Ivo)**  
+- **Name:** **I. B. Stoyanov**  
 - **Email:**  [ivobstoyanov@gmail.com](mailto:ivobstoyanov@gmail.com)  
 - **GitHub:** [https://github.com/ibstoyanov](https://github.com/ibstoyanov)  
 - **GitLab:** [https://gitlab.com/ibstoyanov-org](https://gitlab.com/ibstoyanov-org)  
